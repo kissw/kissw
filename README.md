@@ -1,4 +1,4 @@
-- :smile: Hi, I'm Donghyun Kim
+- :smile: Hi, My name is Donghyun Kim
 - 🔭 I’m currently a Ph.D. Student in ICSL (Intelligent Commnication Systems Lab) at Hanyang University 
 - 🌱 I’m currently studying Self-Driving Car using End-to-End Deep Imitation Learning
 - 📫 How to reach me: kissw@hanyang.ac.kr
